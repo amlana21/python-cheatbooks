@@ -1,6 +1,6 @@
 # Python Data Library Cheatbooks  
 
-This is a collection of Jupyter notebooks containing commonly used functions from popular Data libraries in Python. This contains example usage of each functions alongwith sections named after different modules within the libraries.This is more of a learning guide and quick reference guide which I use for these functions. 
+This is a collection of Jupyter notebooks containing commonly used functions from popular Data libraries in Python. This contains example usage of each functions alongwith sections named after different modules within the libraries.This is more of a learning guide and quick reference guide which I use for these functions.Please raise issues for any comments or suggestions. 
 
 **Libraries contained in the repo:**  
 * Numpy  
